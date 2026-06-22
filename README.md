@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vinaykumar-2007/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/vinaykumar-2007/LeetCode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vinaykumar-2007/LeetCode/tree/master/0058-length-of-last-word) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vinaykumar-2007/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
