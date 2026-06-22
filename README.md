@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vinaykumar-2007/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vinaykumar-2007/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vinaykumar-2007/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vinaykumar-2007/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vinaykumar-2007/LeetCode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vinaykumar-2007/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
