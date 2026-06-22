@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vinaykumar-2007/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/vinaykumar-2007/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/vinaykumar-2007/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vinaykumar-2007/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vinaykumar-2007/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/vinaykumar-2007/LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
