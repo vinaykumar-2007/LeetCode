@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vinaykumar-2007/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinaykumar-2007/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinaykumar-2007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0877-stone-game) |
 ## Interactive
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
