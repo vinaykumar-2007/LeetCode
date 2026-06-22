@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vinaykumar-2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vinaykumar-2007/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/vinaykumar-2007/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Array
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vinaykumar-2007/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
