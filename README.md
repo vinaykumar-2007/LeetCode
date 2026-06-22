@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinaykumar-2007/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vinaykumar-2007/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2396-strictly-palindromic-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/vinaykumar-2007/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 ## Recursion
 |  |
 | ------- |
