@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vinaykumar-2007/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vinaykumar-2007/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vinaykumar-2007/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vinaykumar-2007/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vinaykumar-2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -33,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vinaykumar-2007/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinaykumar-2007/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vinaykumar-2007/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vinaykumar-2007/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinaykumar-2007/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -57,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vinaykumar-2007/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinaykumar-2007/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vinaykumar-2007/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
