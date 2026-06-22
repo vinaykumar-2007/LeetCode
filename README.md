@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vinaykumar-2007/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vinaykumar-2007/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vinaykumar-2007/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/vinaykumar-2007/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vinaykumar-2007/LeetCode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vinaykumar-2007/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
