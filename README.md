@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vinaykumar-2007/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/vinaykumar-2007/LeetCode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2469-convert-the-temperature](https://github.com/vinaykumar-2007/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/vinaykumar-2007/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vinaykumar-2007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
