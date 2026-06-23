@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vinaykumar-2007/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2396-strictly-palindromic-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/vinaykumar-2007/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vinaykumar-2007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vinaykumar-2007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vinaykumar-2007/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vinaykumar-2007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vinaykumar-2007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
