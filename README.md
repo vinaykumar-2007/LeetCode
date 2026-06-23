@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vinaykumar-2007/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/vinaykumar-2007/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinaykumar-2007/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vinaykumar-2007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vinaykumar-2007/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/vinaykumar-2007/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vinaykumar-2007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
