@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vinaykumar-2007/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vinaykumar-2007/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/vinaykumar-2007/LeetCode/tree/master/0704-binary-search) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vinaykumar-2007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/vinaykumar-2007/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/vinaykumar-2007/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vinaykumar-2007/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1470-shuffle-the-array) |
