@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/vinaykumar-2007/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vinaykumar-2007/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/vinaykumar-2007/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinaykumar-2007/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vinaykumar-2007/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vinaykumar-2007/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/vinaykumar-2007/LeetCode/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
