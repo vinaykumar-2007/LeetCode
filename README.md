@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vinaykumar-2007/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinaykumar-2007/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vinaykumar-2007/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/vinaykumar-2007/LeetCode/tree/master/2235-add-two-integers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/vinaykumar-2007/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vinaykumar-2007/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vinaykumar-2007/LeetCode/tree/master/1672-richest-customer-wealth) |
