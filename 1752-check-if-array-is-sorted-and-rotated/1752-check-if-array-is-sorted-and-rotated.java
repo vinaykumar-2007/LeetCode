@@ -6,6 +6,6 @@ class Solution {
                 cnt++;
             }
         }
-        return cnt <= 1;
+        return (cnt <= 1) ? true : false;
     }
 }
