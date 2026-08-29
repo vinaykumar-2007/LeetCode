@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vinaykumar-2007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinaykumar-2007/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
