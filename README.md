@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vinaykumar-2007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinaykumar-2007/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/vinaykumar-2007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vinaykumar-2007/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vinaykumar-2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vinaykumar-2007/LeetCode/tree/master/0075-sort-colors) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vinaykumar-2007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vinaykumar-2007/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vinaykumar-2007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/vinaykumar-2007/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vinaykumar-2007/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
