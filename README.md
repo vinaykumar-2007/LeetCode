@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vinaykumar-2007/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vinaykumar-2007/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vinaykumar-2007/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/vinaykumar-2007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vinaykumar-2007/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vinaykumar-2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vinaykumar-2007/LeetCode/tree/master/0075-sort-colors) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vinaykumar-2007/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vinaykumar-2007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vinaykumar-2007/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vinaykumar-2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vinaykumar-2007/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vinaykumar-2007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/vinaykumar-2007/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vinaykumar-2007/LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/vinaykumar-2007/LeetCode/tree/master/1920-build-array-from-permutation) |
